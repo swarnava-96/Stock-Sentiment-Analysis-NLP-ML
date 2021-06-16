@@ -1,6 +1,7 @@
 # Stock-Sentiment-Analysis-NLP-ML
 
 ## Stock Sentiment Analysis using News Headlines.
+https://www.kaggle.com/geminikeggler/stock-sentiment-analysis
 #### About the problem and the dataset used.
 
 1. The data set in consideration is a combination of the world news and stock price shifts.
@@ -14,4 +15,3 @@
 1. Used Bag of Words for extracting featues from the headlines.
 2. Used Random Forest Classifier, Multinational Naive Bayes and Passive Aggressive Classifier for analysis.
 
-https://www.kaggle.com/geminikeggler/stock-sentiment-analysis
