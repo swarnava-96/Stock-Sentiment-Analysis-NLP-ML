@@ -13,3 +13,5 @@
 
 1. Used Bag of Words for extracting featues from the headlines.
 2. Used Random Forest Classifier, Multinational Naive Bayes and Passive Aggressive Classifier for analysis.
+
+https://www.kaggle.com/geminikeggler/stock-sentiment-analysis
